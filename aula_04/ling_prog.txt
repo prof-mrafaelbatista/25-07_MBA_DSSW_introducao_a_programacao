@@ -1,0 +1,4 @@
+Eu amo programar em Python!
+Eu amo programar em PySpark!
+Eu amo programar em SQL!
+Eu amo programar bebendo café!
